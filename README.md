@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### My name is Fernando and I'm a chemist but im my free time I'm a data enthusiast.
 
-![alt text](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/82d02685607941.5da4232b83320.png)
+![alt text](https://www.cetax.com.br/blog/wp-content/uploads/2017/01/Cientista-de-Dados.jpg)
 
 
 <!--
