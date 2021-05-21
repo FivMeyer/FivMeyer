@@ -1,7 +1,10 @@
 ### Hi there 👋
 My name is Fernando and I'm a chemist but im my free time I'm a data enthusiast.
 
-![alt text](https://5cf136df6c8b4876e3af8e68.static-01.com/l/images/7bfcbd94b7e9b25017e69e287a965977d7ace1a5.jpeg)
+####  📫 How to reach me: 
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fernando-ivan-meyer/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/fivmeyer/) 
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rsoliveira.c@gmail.com)](mailto:f.ivanmeyer@gmail.com) 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FivMeyer)](https://github.com/FivMeyer/github-readme-stats) <!-- insert stats from profile -->
 
