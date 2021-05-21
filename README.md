@@ -26,10 +26,10 @@ With that, I have been developing / proposing solutions to business problems in 
 
 
 #### 📫 How to reach me:
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rsoliveira.c@gmail.com)](mailto:f.ivanmeyer@gmail.com) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fernando-ivan-meyer/) 
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/fivmeyer/) 
 
-* [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fernando-ivan-meyer/) 
-* [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/fivmeyer/) 
-* [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rsoliveira.c@gmail.com)](mailto:f.ivanmeyer@gmail.com) 
 
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FivMeyer&layout=compact)](https://github.comFivMeyer/github-readme-stats)<!-- insert stats from profile -->
 
