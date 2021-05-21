@@ -1,8 +1,8 @@
-### Hi there 👋
-My name is Fernando and I'm a chemist but im my free time I'm a data enthusiast.
+### Fernando Ivan Meyer Portfolio's
 
-####  📫 How to reach me: 
+With this personal repository I intend to demonstrate my skills in solving business challenges through my knowledge and tools of Data Science.
 
+📫 How to reach me: 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fernando-ivan-meyer/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/fivmeyer/) 
  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rsoliveira.c@gmail.com)](mailto:f.ivanmeyer@gmail.com) 
 
