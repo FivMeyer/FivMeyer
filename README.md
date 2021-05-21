@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/author-Fernando__Ivan__Meyer-orange)](https://linkedin.com/in/fernando-ivan-meyer/)
+[![author](https://img.shields.io/badge/Author-Fernando__Ivan__Meyer-orange)](https://linkedin.com/in/fernando-ivan-meyer/)
 ## Fernando Ivan Meyer Portfolio's
 
 With this personal repository I intend to demonstrate my skills in solving business challenges through my knowledge and tools of Data Science.
