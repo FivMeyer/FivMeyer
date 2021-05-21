@@ -1,13 +1,14 @@
-### Fernando Ivan Meyer Portfolio's
+[![author](https://img.shields.io/badge/author-KattsonBastos-red.svg)](https://linkedin.com/in/fernando-ivan-meyer/)
+## Fernando Ivan Meyer Portfolio's
 
 With this personal repository I intend to demonstrate my skills in solving business challenges through my knowledge and tools of Data Science.
 
-## 📫 How to reach me:
+### 📫 How to reach me:
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fernando-ivan-meyer/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/fivmeyer/) 
  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rsoliveira.c@gmail.com)](mailto:f.ivanmeyer@gmail.com) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FivMeyer&layout=compact)](https://github.comFivMeyer/github-readme-stats)<!-- insert stats from profile -->
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FivMeyer&layout=compact)](https://github.comFivMeyer/github-readme-stats)<!-- insert stats from profile -->
 
 <!--
 **FivMeyer/FivMeyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
