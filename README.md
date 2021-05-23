@@ -31,7 +31,7 @@ With that, I have been developing / proposing solutions to business problems in 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/fivmeyer/) 
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FivMeyer&layout=compact)](https://github.comFivMeyer/github-readme-stats)<!-- insert stats from profile -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FivMeyer&layout=compact)](https://github.comFivMeyer/github-readme-stats)<!-- insert stats from profile -->
 
 <!--
 **FivMeyer/FivMeyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
